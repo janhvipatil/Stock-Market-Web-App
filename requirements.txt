@@ -24,7 +24,7 @@ pytz==2020.1
 PyYAML==5.4
 requests==2.23.0
 six==1.14.0
-sqlparse==0.3.1
+sqlparse==0.4.4
 toml==0.10.1
 tornado==6.0.4
 typing-extensions==3.7.4.2
